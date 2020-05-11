@@ -1,0 +1,13 @@
+name = "Tests"
+uuid = "de4ede7f-782e-4e27-a7a7-4684933b6239"
+authors = ["Sam Anklesaria <sam@spacemaker.ai>"]
+version = "0.1.0"
+
+[deps]
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+LinearMapDuals = "6478e562-99fc-45c1-87fa-df5855871ddc"
+LinearMaps = "7a12625a-238d-50fd-b39a-03d52299707e"
+ReTester = "8971cb22-902f-4395-a069-00373ce2268d"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+ToeplitzMatrices = "c751599d-da0a-543b-9d20-d0a503d91d24"
